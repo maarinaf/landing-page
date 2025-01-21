@@ -40,7 +40,7 @@ starteasy-landing/
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/starteasy-landing.git
+git clone https://github.com/maarinaf/starteasy-landing.git
 ```
 2. Navegue até o diretório do projeto
 ```bash
